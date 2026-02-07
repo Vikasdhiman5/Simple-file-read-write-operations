@@ -1,19 +1,23 @@
-📁 Simple File Read & Write Operations in Python
-📌 Project Overview
+## 📁 Simple File Read & Write Operations in Python
+## 📌 Project Overview
 
 This project demonstrates basic file handling operations in Python, including reading from and writing to text files. It was developed during my Cryptonic Area Virtual Internship as part of hands-on learning in Python programming.
 
 The main goal of this project is to help beginners understand how files are created, written, and read using Python.
 
-🏗️ Project Structure
+## **Project Structure**
 
 simple-file-read-write/
+
 │
+
 ├── main.py          # Main Python program
+
 ├── data.txt         # Sample text file (auto-created)
+
 └── README.md        # Project documentation
 
-✨ Features
+## **Features**
 
 ✅ Create and write data to a text file
 
@@ -25,7 +29,7 @@ simple-file-read-write/
 
 ✅ Demonstrates best practices using with open()
 
-🛠️ Technologies Used###
+## **Technologies Used**
 
 Language: Python 3
 
@@ -34,7 +38,7 @@ Platform: Windows / Linux / macOS
 Tools: Any Python IDE or Text Editor (VS Code, PyCharm, etc.)
 
 
-📌 Usage
+## **Usage**
 
 After running the program:
 
@@ -47,7 +51,7 @@ Then it reads the same file.
 The content is displayed on the console.
 
 
-📚 Learning Outcomes
+## **Learning Outcomes**
 
 Through this project, I learned:
 
@@ -65,10 +69,12 @@ Through this project, I learned:
 This project strengthened my foundation in Python file handling and basic software development practices.
 
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Vikas Dhiman
+
 BCA-MCA Integrated Student
+
 Aspiring AI & Software Developer
 
 📧 Work.vikasdhiman@gmail.com
